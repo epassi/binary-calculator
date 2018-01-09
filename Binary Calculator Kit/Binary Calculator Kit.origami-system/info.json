@@ -1,0 +1,1 @@
+{"icons":{"@2x":"icon@2x.png","-large@2x":"icon-large@2x.png","@1x":"icon.png","-large@1x":"icon-large.png"},"author":"Emilio Passi","system":"BinaryCalculatorKit","name":"Binary Calculator Kit","description":"Patches for creating a ripple-carry adder: Exclusive Or, Half Adder, Full Adder, Binary to Decimal.","version":"1.0"}
