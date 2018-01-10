@@ -1,0 +1,26 @@
+[
+  {
+    "export" : true,
+    "identifier" : 1099123679328240600,
+    "documentURL" : "file:\/\/\/Users\/passi\/Origami%20Studio%20Projects\/binary-calculator\/Binary%20Calculator%20Kit\/source\/Binary%20Calculator%20Kit.origami",
+    "name" : "Binary to Decimal"
+  },
+  {
+    "export" : true,
+    "identifier" : 7477120127579518555,
+    "documentURL" : "file:\/\/\/Users\/passi\/Origami%20Studio%20Projects\/binary-calculator\/Binary%20Calculator%20Kit\/source\/Binary%20Calculator%20Kit.origami",
+    "name" : "Exclusive Or"
+  },
+  {
+    "export" : true,
+    "identifier" : 154837152436319097,
+    "documentURL" : "file:\/\/\/Users\/passi\/Origami%20Studio%20Projects\/binary-calculator\/Binary%20Calculator%20Kit\/source\/Binary%20Calculator%20Kit.origami",
+    "name" : "Full Adder"
+  },
+  {
+    "export" : true,
+    "identifier" : 14539250891857182074,
+    "documentURL" : "file:\/\/\/Users\/passi\/Origami%20Studio%20Projects\/binary-calculator\/Binary%20Calculator%20Kit\/source\/Binary%20Calculator%20Kit.origami",
+    "name" : "Half Adder"
+  }
+]
